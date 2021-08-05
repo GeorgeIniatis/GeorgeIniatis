@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Iniatis
 - 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently going through Google's Machine Learning Courses and trying to learn more about the Flask Web Framework 
+- 🌱 I’m currently going through Google's Machine Learning Courses and trying to learn more about the Flask Web Framework in combination with RESTful practices
 - 📫 You can reach me through my email jogeo98@hotmail.com
 
 <!---
