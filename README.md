@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Iniatis
 - 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently going through Google's Machine Learning Courses and trying to learn more about the Tornado Web Framework by following the book "Introduction to Tornado" 
+- 🌱 I’m currently going through Google's Machine Learning Courses and trying to learn more about the Flask Web Framework 
 - 📫 You can reach me through my email jogeo98@hotmail.com
 
 <!---
