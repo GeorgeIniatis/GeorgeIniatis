@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Iniatis
-- 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently going through Google's Machine Learning Courses and trying to learn more about the Flask Web Framework in combination with RESTful practices
+- 👀 I’m interested in Machine Learning, Data Analysis and Web Development 
+- 🌱 I’m currently going to create models that try to predict whether a compound can successfully penetrate the Blood Brain Barrier or not as part of my 4th Year Project at UofG
 - 📫 You can reach me through my email jogeo98@hotmail.com
 
 <!---
